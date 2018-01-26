@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication1", "WindowsFormsApplication1\WindowsFormsApplication1.csproj", "{7D1A097C-B3B3-46E7-BF78-D3B1212C9852}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarningSystemUptimeCalculator", "WindowsFormsApplication1\BarningSystemUptimeCalculator.csproj", "{7D1A097C-B3B3-46E7-BF78-D3B1212C9852}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

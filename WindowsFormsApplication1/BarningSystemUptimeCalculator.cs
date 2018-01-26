@@ -7,8 +7,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using CalculateFormApplication;
 
-namespace WindowsFormsApplication1
+namespace BarningSystemUptimeCalculator
 {
     public partial class BarningSystemUptimeCalculator : Form
     {
@@ -16,5 +17,12 @@ namespace WindowsFormsApplication1
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            CalculateForm con = new CalculateForm();
+            con.Show();            
+        }
     }
 }
+
