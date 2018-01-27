@@ -53,7 +53,7 @@
             this.ClientSize = new System.Drawing.Size(467, 272);
             this.Controls.Add(this.Calculate_button);
             this.Name = "BarningSystemUptimeCalculator";
-            this.Text = "Form1";
+            this.Text = "Barning System Uptime Calculator";
             this.ResumeLayout(false);
 
         }
