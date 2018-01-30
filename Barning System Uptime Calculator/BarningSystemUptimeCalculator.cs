@@ -23,6 +23,12 @@ namespace BarningSystemUptimeCalculator
             CalculateForm con = new CalculateForm();
             con.Show();            
         }
+
+        private void BarningSystemUptimeCalculator_Load(object sender, EventArgs e)
+        {
+            //log aanmaken hoe lang computer aan/uit
+            //je wilt meten hoelang computer aan is en actief
+        }
     }
 }
 

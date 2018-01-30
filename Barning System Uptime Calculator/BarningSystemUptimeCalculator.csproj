@@ -13,7 +13,7 @@
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <IsWebBootstrapper>false</IsWebBootstrapper>
-    <PublishUrl>\\github.com/BarningDevelopment/Published.git/</PublishUrl>
+    <PublishUrl>C:\Users\mpelt\Documents\programmeren\Workspace\publicaties\</PublishUrl>
     <Install>false</Install>
     <InstallFrom>Unc</InstallFrom>
     <UpdateEnabled>true</UpdateEnabled>
@@ -23,7 +23,7 @@
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
-    <InstallUrl>\\Users\mpelt\OneDrive\Documenten\Visual Studio 2015\Projects\Barning System Uptime Calculator\</InstallUrl>
+    <InstallUrl>//drive.google.com/drive/folders/1v4sz7u1q762faj1-emY5rTQtSiRJKlNj/</InstallUrl>
     <WebPage>publish.htm</WebPage>
     <ApplicationRevision>3</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>

@@ -54,6 +54,7 @@
             this.Controls.Add(this.Calculate_button);
             this.Name = "BarningSystemUptimeCalculator";
             this.Text = "Barning System Uptime Calculator";
+            this.Load += new System.EventHandler(this.BarningSystemUptimeCalculator_Load);
             this.ResumeLayout(false);
 
         }
